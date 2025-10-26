@@ -1,6 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md) / [Portuguese](./README_pt.md) / [Vietnamese](./README_vn.md) / [Japanese](./README_ja.md)
 
+
+
+>Yicrane，2025.10.26在家中配置，开始学习、做笔记、思维导图
 # The fastai book
 
 这些notebook包含了对深度学习，[fastai](https://docs.fast.ai/)，以及[PyTorch](https://pytorch.org/)的介绍。fastai是一个用于深度学习的分层API；要了解更多信息，请阅读[the fastai paper](https://www.mdpi.com/2078-2489/11/2/108)论文。本repo的所有内容的版权都属于Jeremy Howard和Sylvain Gugger，起自2020年。
